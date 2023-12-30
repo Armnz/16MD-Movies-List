@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-width: 0.14rem;
+    border-radius: 0.5rem;
+    background-color: #1390b6;
+    text-align: center;
+    width: 20rem;
+    height: 20rem;
+    color: #17b337;
+    text-decoration: none;
+
+    &:hover {
+        transform: scale(1.05);
+        cursor: pointer;
+        filter: drop-shadow(0 0 1rem #9bce74);
+    }
+}
+.deleteButton__wrapper{
+    margin-top: auto;
+    margin-bottom: .8rem;
+}
+
+.deleteButton{
+    padding: 0.25rem 0.8rem;
+    font-size: 1.6rem;
+    border-radius: 0.4rem;
+    border-style: none;
+    background-color: #17b337;
+    font-weight: bold;
+    transition: 0.1s;
+
+    &:hover{
+        background-color: #9bce74;
+        cursor: pointer;
+    }
+}
+

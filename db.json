@@ -1,0 +1,114 @@
+{
+  "movies": [
+      {
+          "id": 1,
+          "name": "Blade Runner",
+          "release_date": "1982-06-25",
+          "director": "Ridley Scott",
+          "comments": [
+              "A sci-fi masterpiece.",
+              "Visually stunning and thought-provoking.",
+              "Harrison Ford is excellent."
+          ]
+      },
+      {
+          "id": 2,
+          "name": "Eternal Sunshine of the Spotless Mind",
+          "release_date": "2004-03-19",
+          "director": "Michel Gondry",
+          "comments": [
+              "Incredibly unique and heartwarming.",
+              "Jim Carrey's best performance.",
+              "A beautiful story about love and memory."
+          ]
+      },
+      {
+          "id": 3,
+          "name": "Mad Max: Fury Road",
+          "release_date": "2015-05-15",
+          "director": "George Miller",
+          "comments": [
+              "Action-packed and visually stunning.",
+              "A high-octane thrill ride.",
+              "Revolutionized action movies."
+          ]
+      },
+      {
+          "id": 4,
+          "name": "Amelie",
+          "release_date": "2001-04-25",
+          "director": "Jean-Pierre Jeunet",
+          "comments": [
+              "Charming and whimsical.",
+              "Audrey Tautou is enchanting.",
+              "A delightful French romantic comedy."
+          ]
+      },
+      {
+          "id": 5,
+          "name": "Whiplash",
+          "release_date": "2014-10-10",
+          "director": "Damien Chazelle",
+          "comments": [
+              "Intense and gripping.",
+              "J.K. Simmons is phenomenal.",
+              "A riveting music drama."
+          ]
+      },
+      {
+          "id": 6,
+          "name": "Pan's Labyrinth",
+          "release_date": "2006-10-11",
+          "director": "Guillermo del Toro",
+          "comments": [
+              "A dark fairy tale.",
+              "Visually captivating and haunting.",
+              "A masterpiece of fantasy storytelling."
+          ]
+      },
+      {
+          "id": 7,
+          "name": "The Grand Budapest Hotel",
+          "release_date": "2014-03-28",
+          "director": "Wes Anderson",
+          "comments": [
+              "Visually stunning and quirky.",
+              "Ralph Fiennes is fantastic.",
+              "A unique and stylish comedy."
+          ]
+      },
+      {
+          "id": 8,
+          "name": "Inglourious Basterds",
+          "release_date": "2009-08-21",
+          "director": "Quentin Tarantino",
+          "comments": [
+              "Tarantino's bold war film.",
+              "Brilliantly written and acted.",
+              "A thrilling alternate history."
+          ]
+      },
+      {
+          "id": 9,
+          "name": "The Social Network",
+          "release_date": "2010-10-01",
+          "director": "David Fincher",
+          "comments": [
+              "A compelling drama about ambition.",
+              "Jesse Eisenberg is superb.",
+              "Fincher's sharp direction shines."
+          ]
+      },
+      {
+          "id": 10,
+          "name": "Moonlight",
+          "release_date": "2016-10-21",
+          "director": "Barry Jenkins",
+          "comments": [
+              "A beautiful and moving story.",
+              "Stunning cinematography.",
+              "A profound exploration of identity."
+          ]
+      }
+  ]
+}
